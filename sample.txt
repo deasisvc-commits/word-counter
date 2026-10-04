@@ -1,0 +1,5 @@
+Hello world! Welcome to the Node.js Word and Line Counter CLI project.
+This is line two of the text file.
+
+Node.js allows you to build fast and scalable command-line applications easily.
+Happy coding!
